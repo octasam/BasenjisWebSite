@@ -1,0 +1,11 @@
+/*
+Estilo para sitio web de Basenji
+*/
+body{
+    background-color: rgb(129, 129, 129);
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1, h2, p{
+    color: rgb(0, 0, 0);
+}
